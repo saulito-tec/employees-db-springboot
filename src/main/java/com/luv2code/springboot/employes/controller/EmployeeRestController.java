@@ -1,6 +1,5 @@
 package com.luv2code.springboot.employes.controller;
 
-import com.luv2code.springboot.employes.dao.EmployeeDAO;
 import com.luv2code.springboot.employes.entity.Employee;
 import com.luv2code.springboot.employes.request.EmployeeRequest;
 import com.luv2code.springboot.employes.service.EmployeeService;
